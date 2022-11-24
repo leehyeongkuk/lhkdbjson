@@ -1,0 +1,70 @@
+[
+    {
+      "folioImg":["/img/swiper/1.jpg","/img/swiper/2.jpg","/img/swiper/3.jpg"],
+      "folioDetail":{
+        "title":"캠핑용품 대여 구독 서비스 라이클",
+        "desc":"캠핑용품 대여 구독 서비스인 라이클을 홍보하는 사이트를 기획해봤습니다.",
+        "hash":"#캠핑 #캠핑용품 #구독서비스"
+      },
+      "folioTools":[
+        ["VSCode","/img/tools/1.jpg"],
+        ["Photoshop","/img/tools/2.jpg"],
+        ["Illustrator","/img/tools/3.jpg"],
+        ["Premiere","/img/tools/4.jpg"]
+      ],
+      "folioStacks":[
+        {
+          "frontend":{
+            "lang1":["HTML/CSS","60%","/img/stacks/1.jpg"],
+            "lang2":["JAVASCRIPT","10%","/img/stacks/1.jpg"]
+          },
+          "framework":{
+            "frame1":["BOOTSTRAP-v4.6", "30%", "/img/stacks/1.jpg"]
+          },
+          "cms" : {
+            "manage1":["","",""]
+          }
+        },
+        {
+          "part1":["PLAN", "30%"],
+          "part2":["DESIGN", "30%"],
+          "part3":["IMPLEMENT", "40%"]
+        }
+      ],
+      "folioWork":[
+        {
+          "period":"1 week",
+          "work":"GROUP",
+          "workPercent":"90%",
+          "part":"FRONT-END"
+        }
+      ],
+      "folioLink":[
+        {
+          "btnName":"VIEW DETAILS",
+          "btnLink":"",
+          "btnTarget":"",
+          "btnClass":"btnFolio"
+        },
+        {
+          "btnName":"PAGE",
+          "btnLink":"",
+          "btnTarget":"_blank",
+          "btnClass":"btnFolio"
+        },
+        {
+          "btnName":"FIGMA",
+          "btnLink":"",
+          "btnTarget":"_blank",
+          "btnClass":"btnFolio"
+        },
+        {
+          "btnName":"GITHUB",
+          "btnLink":"",
+          "btnTarget":"_blank",
+          "btnClass":"btnFolio"
+        }
+      ],
+      "folioClass":"jayFolio"
+    }
+  ]

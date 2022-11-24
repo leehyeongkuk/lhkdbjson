@@ -1,0 +1,30 @@
+[
+    {
+        "navTitle":"ABOUT ME",
+        "navLink":"#about",
+        "navTarget":"",
+        "navClass":"scrollPage",
+        "isNav":true
+    },
+    {
+        "navTitle":"Portfolio",
+        "navLink":"#portfolio",
+        "navTarget":"",
+        "navClass":"scrollPage",
+        "isNav":true
+    },
+    {
+        "navTitle":"Pre-Interview",
+        "navLink":"#preinterview",
+        "navTarget":"",
+        "navClass":"scrollPage",
+        "isNav":true
+    },
+    {
+        "navTitle":"Gitpage UI",
+        "navLink":"https://leehyeongkuk.github.io",
+        "navTarget":"",
+        "navClass":"",
+        "isNav":true
+    }
+]
